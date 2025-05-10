@@ -1,4 +1,3 @@
 flask
-vanna[snowflake]
 db-dtypes
 python-dotenv
